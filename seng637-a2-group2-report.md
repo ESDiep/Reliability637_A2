@@ -306,3 +306,12 @@ We learned that black box testing can be very tedious and confusing as we have t
 # 6 Comments/feedback on the lab itself
 
 The layout and steps of the lab itself made it easy to follow and complete the assignment tasks. The lab exercises were useful as they allowed us to learn the basics of automated unit testing using JUnit in test code development. 
+
+# 7 Screenshots
+Results of the testing of Range class
+
+![alt Range_test_result](./Range_test_result.png)
+
+Results of testing of DataUtilities class
+
+![alt DataUtilities_test_result](./DataUtilities_test_result.png)
